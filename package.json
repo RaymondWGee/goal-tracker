@@ -7,8 +7,16 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaymondWGee/goal-tracker.git"
+  },
   "author": "Raymond",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaymondWGee/goal-tracker.git/issues"
+  },
+  "homepage": "https://github.com/RaymondWGee/goal-tracker.git#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
